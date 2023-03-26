@@ -11,6 +11,6 @@ Commit:
     - Ogni commit deve anteporre una parola che rappresenta la feature che stiamo
       facendo:
 
-        feature: "....." -> Si usa per implementare nuove funzionalità
+        feat: "....." -> Si usa per implementare nuove funzionalità
         fix: "....." -> Si usa per fixare comportamente anomali
         hotfix: "....." -> Si usa per piccole fix di stile o layout molto semplici

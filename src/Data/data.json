@@ -1,0 +1,11 @@
+
+{
+    "Pizzeria da Nino":{
+        "lat": 123123123,
+        "long": 234234234,
+        "voto": 8,
+        "descrizione": "questo ristorante mi piace molto",
+        "tipologia": "Pizzeria"
+    }
+    
+}
