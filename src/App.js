@@ -1,5 +1,5 @@
-import logo from './manginado-romano-logo.png';
-import './App.css';
+import logo from './img/manginado-romano-logo.png';
+import './Styles/App.css';
 import ButtonVai from './Components/ButtonVai.tsx';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
         <p>
           <b>Voi magnà? Allora clicca qua</b>
         </p>
-       <ButtonVai></ButtonVai>
+       <ButtonVai label="VAI"></ButtonVai>
       </header>
     </div>
   );

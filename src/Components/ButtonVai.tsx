@@ -1,6 +1,10 @@
 import React from 'react';
 
-function ButtonVai() {
+type ButtonProps = {
+  label: string;
+}
+
+function ButtonVai(props: ButtonProps) {
     return (
         <>
          <a
@@ -9,7 +13,7 @@ function ButtonVai() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          VAI
+          {props.label}
         </a>
         </>
     );

@@ -31,9 +31,10 @@
   width: 20vw;
   border-radius: 20px;
 }
-.backgrd-white{
+
+/* .App-link{
   background-color: white;
-}
+} */
 
 @keyframes App-logo-spin {
   from {
