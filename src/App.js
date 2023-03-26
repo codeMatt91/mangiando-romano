@@ -1,5 +1,6 @@
 import logo from './manginado-romano-logo.png';
 import './App.css';
+import ButtonVai from './Components/ButtonVai.tsx';
 
 function App() {
 
@@ -10,14 +11,7 @@ function App() {
         <p>
           <b>Voi magnà? Allora clicca qua</b>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          VAI
-        </a>
+       <ButtonVai></ButtonVai>
       </header>
     </div>
   );
