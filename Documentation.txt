@@ -1,0 +1,16 @@
+DOCUMENTAZIONE
+
+Apertura branch:
+    - Ogni branch deve avere la seguente struttura:
+
+        feature/"iniziali nome-cognome"_"descrizione feature" 
+        ex: (feature/MI_aggiunto-file..)
+
+
+Commit:
+    - Ogni commit deve anteporre una parola che rappresenta la feature che stiamo
+      facendo:
+
+        feature: "....." -> Si usa per implementare nuove funzionalità
+        fix: "....." -> Si usa per fixare comportamente anomali
+        hotfix: "....." -> Si usa per piccole fix di stile o layout molto semplici
