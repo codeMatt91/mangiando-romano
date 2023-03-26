@@ -1,0 +1,20 @@
+*********** MANGIANDO ROMANO ****************
+
+Roma 26-03-2023
+
+-- INTRODUZIONE --
+
+Mangiando Romano è un app nata dall'esigenza di centralizzare i posti "mangerecci" più importanti
+che ho accumulato nel corso degli anni, ovviamnete nella città di Roma.
+Quest'app sarà un primo esperimento di web app costruita come s.p.a(single page application), che molto semplicemente 
+mi consentirà di fruire dei migliori ristoranti in base alla posizione in cui mi troverò. Le caratteristiche principali
+saranno:
+
+    - Grande leggerezza data da un applicazione completamente serverless 
+    - Funzionalità di geolocalizzazione e visualizzazione di tutti i ristoranti segnalati
+    - Ricerca di un ristorante in base alla:
+        - Tipologia
+        - Prezzo
+        - Quotazione
+
+
